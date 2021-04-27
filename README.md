@@ -17,7 +17,7 @@ You are working as a product manager at Google. The company wants to launch some
   - Detailed prototype design.
 
 <p align="center">
-<img src="https://github.com/yarahisham/Google_Stock_Images-Product_Design/blob/main/Images/Screen%20Shot%202021-04-27%20at%204.49.00%20PM.jpg" alt="alt text" width="700" height="900" >
+<img src="https://github.com/yarahisham/Google_Stock_Images-Product_Design/blob/main/Images/Screen%20Shot%202021-04-27%20at%204.49.00%20PM.jpg" alt="alt text" width="700" height="1000" >
 </p>
  
 ## Knowledge Officer Robric
