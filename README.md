@@ -7,7 +7,7 @@ You are working as a product manager at Google. The company wants to launch some
   - Why was Google Stock Images created?
   - What does Google Stock Images provide to the community?
   - Who is Google Stock Images for?
-  - What is Goggle Stock Images used for?
+  - What is Google Stock Images used for?
   - What does Goggle Stock Images community do?
   - How to used Google Stock Images?
   - How to sign-up to Google Stock Images community?
